@@ -1,0 +1,20 @@
+import 'react-native';
+import React from 'react';
+import { create, act } from 'react-test-renderer';
+
+import {{pascalCase name}} from '../../../src/{{camelCase type}}/{{pascalCase name}}';
+
+describe('{{pascalCase name}} test', () => {
+	let {{camelCase name}}Rendered;
+	beforeAll(async () => {
+		await act(async () => {
+			{{camelCase name}}Rendered = create(<{{pascalCase name}} />);
+		});
+	});
+
+	it('rendered correctly', () => {
+		const {{camelCase name}}RenderedAsJSON = {{camelCase name}}Rendered.toJSON();
+
+		expect({{camelCase name}}RenderedAsJSON).toMatchSnapshot();
+	});
+});

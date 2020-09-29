@@ -91,7 +91,7 @@ O primeiro passo é executar esse comando no terminal:
 yarn generate
 ```
 
-Depois vai aparece um questionário de acordo com os seus interesses
+Depois vai aparece um questionário, daí responda de acordo com os seus interesses
 
 Exemplo do Botão
 
@@ -148,7 +148,7 @@ Aí no questionário nos vamos marcar:
 ? Você quer criar um teste? No
 ```
 
-E também obter dois arquivos, porém dessa vez é na pasta `pages/Produto`:
+E também obtermos dois arquivos, porém dessa vez é na pasta `pages/Produto`:
 
 index.js
 

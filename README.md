@@ -6,7 +6,7 @@ Este é o template da SofTeam para aplicações React Native CLI, servindo como 
 2. [Configuração](#configuração)
 3. [Scripts](#scripts)
 4. [Estrutura](#estrutura)
-5. [Criando novos componentes/páginas](#criando-novos-componentes/páginas)
+5. [Criando novos componentes/páginas](#criando-novos-componentespáginas)
 6. [Dependências](#dependências)
 
 ## Pré-requisitos
